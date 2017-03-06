@@ -1,0 +1,21 @@
+{
+  "name": "bn",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "backpack"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.16.1",
+    "eslint-config-nelson": "^0.2.0",
+    "eslint-plugin-import": "^2.2.0"
+  },
+  "dependencies": {
+    "backpack-core": "^0.2.0",
+    "inquirer": "^3.0.6",
+    "prompt": "^1.0.0"
+  }
+}
